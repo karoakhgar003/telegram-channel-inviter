@@ -1,0 +1,18 @@
+{
+"api_id": 123456,
+"api_hash": "YOUR_API_HASH",
+"session_name": "outreach",
+"channel_username": "YOUR_CHANNEL_USERNAME",
+"channel_join_link": "https://t.me/YOUR_CHANNEL_USERNAME",
+"rate_limits": {
+"min_delay_seconds": 3,
+"max_delay_seconds": 7,
+"per_hour_cap": 25,
+"per_day_cap": 80
+},
+"templates": [
+"سلام {first_name} عزیز 🌹 ممنون که پیام دادی! برای دریافت آخرین اخبار و پیشنهادات ویژه حتما عضو کانال ما شو: {channel_link}",
+"درود {first_name}! چون قبلاً پیام دادی، لینک کانال رو برات می‌فرستم تا از دستش ندی: {channel_link}",
+"دوست خوبم {first_name} 👋 برای دریافت به‌روزترین اطلاعات و پشتیبانی سریع، همین الان به کانال ما بپیوند: {channel_link}"
+]
+}

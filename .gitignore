@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Data & logs
+/data/db.sqlite
+/data/logs/
+
+# Telethon sessions & secrets
+*.session
+config/settings.json
